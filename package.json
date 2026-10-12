@@ -1,0 +1,24 @@
+{
+  "name": "avaliacao-filmes",
+  "version": "1.0.0",
+  "description": "Repositório utilizado no exercício 5 de lógica e programação com javascript durante a Mentoria 2.0 em Testes de Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmls-gama/avaliacao-filmes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/cmls-gama/avaliacao-filmes/issues"
+  },
+  "homepage": "https://github.com/cmls-gama/avaliacao-filmes#readme",
+  "dependencies": {
+    "mocha": "^12.0.3"
+  }
+}
